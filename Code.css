@@ -1,0 +1,55 @@
+.box{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1338px;
+height: 549px;
+left: 74px;
+top: 3592px;
+
+background: rgba(169, 218, 255, 0.23);
+border: 7px solid #A9DAFF;
+border-radius: 46px;
+    }
+
+#main{
+    position: absolute;
+    width: 401px;
+    height: 537px;
+    left: 294px;
+    top: 4543px;
+}
+  
+#main img{
+    position: absolute;
+    left:0;
+    transition: 1s all;
+}
+#main .top:hover{
+    opacity:0;
+}
+
+#secondmain{
+    position: absolute;
+width: 401px;
+height: 537px;
+left: 756px;
+top: 4543px;
+}
+  
+#secondmain img{
+    position: absolute;
+    left:0;
+    transition: 1s all;
+}
+#secondmain .top:hover{
+    opacity:0;
+}
+
+.hidden img{
+    position: absolute;
+width: 559px;
+height: 558px;
+left: 187px;
+top: 1964px;">
+}
